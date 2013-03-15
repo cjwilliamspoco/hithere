@@ -1,4 +1,4 @@
-hithere
-=======
 
-Hi There - comp 1950 lecture
+#Hi There Repo
+This is my repo for class
+## this is some stuff
